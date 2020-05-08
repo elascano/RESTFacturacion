@@ -7,7 +7,7 @@ package pojos;
 
 /**
  *
- * @author elascano
+ * @author elascano Edison Lascano
  */
 public class Product {
     private int id;
