@@ -8,6 +8,8 @@ package pojos;
 /**
  *
  * @author elascano Edison Lascano
+ * @version 0.9
+ * @since 2018-05-10
  */
 public class Product {
     private int id;
