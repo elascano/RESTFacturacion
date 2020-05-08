@@ -8,11 +8,11 @@ package pojos;
 /**
  *
  * @author elascano Edison Lascano
- * @version 0.9
- * @since 2018-05-10
+ * @version 1.0.1
+ * @since 2017-12-10
  */
 public class Product {
-    private int id;
+    private int id; // this is the ID of the product assigned by the stock manager
     private String name;
     private int quantity;
     private float price;
