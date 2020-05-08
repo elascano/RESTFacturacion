@@ -7,12 +7,13 @@ package pojos;
 
 /**
  *
- * @author elascano Edison Lascano
- * @version 1.0.1
- * @since 2017-12-10
+ * @author elascano
+ * @version 1.0.2
+ * @since 2017-17-12
  */
+
 public class Product {
-    private int id; // this is the ID of the product assigned by the stock manager
+    private int id;
     private String name;
     private int quantity;
     private float price;
@@ -98,6 +99,7 @@ public class Product {
      */
     public void setPrice(float price) {
         this.price = price;
+
     }
 
     /**
